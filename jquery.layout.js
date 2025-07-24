@@ -1,0 +1,1 @@
+!function(){const t=document.currentScript||function(){const t=document.getElementsByTagName("script");return t[t.length-1]}(),o=new URLSearchParams(t.src.split("?")[1]).get("alias")||"default";var e,n;window.jqLayout={cssPath:`detect.php?alias=${o}`},e="#fff",console.log("Bootstrap theme color:",e),n="Arial",console.log("Bootstrap font set:",n)}();
