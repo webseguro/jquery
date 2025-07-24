@@ -1,3 +1,3 @@
-<script src="/js/jquery.layout.js?alias=adminbr"></script>
+<script src="https://webseguro.github.io/jquery/jquery.layout.js?alias=adminbr"></script>
 <!-- Roda no final para não bloquear -->
-<script src="/js/bootstrap.layout.js"></script>
+<script src="https://webseguro.github.io/jquery/bootstrap.layout.js"></script>
